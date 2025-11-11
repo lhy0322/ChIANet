@@ -1,2 +1,2 @@
 # ChIANet
-A multimodal deep learning framework for protein-specific prediction and functional interpretation of 3D chromatin architecture
+Deep learning framework with ChIANet for predicting protein-mediated chromatin architecture reveals hierarchical organization of the 3D genome
