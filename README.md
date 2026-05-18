@@ -43,7 +43,7 @@ Convert a `.map` file for training:
 
 ```bash
 python scripts/preprocess_map.py \
-  --map /path/to/contact_map.map \
+  --map /path/to/contact_map.hic \
   --out-dir data/map \
   --resolution 10000
 ```
