@@ -1,5 +1,7 @@
 # ChIANet Core
 
+![Image browser window](https://github.com/lhy0322/ChIANet/blob/main/fig1.png)
+
 This repository contains the minimal ChIANet code needed for preprocessing, training, and inference:
 
 - `model/chianet_fast_v1.py`: ChIANet model architecture.
@@ -119,7 +121,7 @@ https://drive.google.com/drive/folders/1EZ3IDZiEzpeIivL-cBDgvH5Ii0_8IUZA?usp=dri
 
 The folder contains trained models for three protein-mediated chromatin contacts:
 CTCF, Cohesin, and RNAPII. Download the needed `.pth` file and place it under
-`checkpoints/`, for example `checkpoints/chianet_ctcf_gm12878_rpgc_v1.pth`.
+`checkpoints/`, for example `checkpoints/chianet_ctcf_gm12878.pth`.
 
 Large checkpoint files are intentionally not included in the code-only release
 directory.
