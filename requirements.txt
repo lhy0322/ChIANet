@@ -1,0 +1,7 @@
+numpy
+pandas
+torch
+pysam
+pyBigWig
+hicstraw
+tqdm
